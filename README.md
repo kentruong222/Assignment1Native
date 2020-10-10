@@ -5,7 +5,7 @@ This is assignment 1 for Native Mobile OS class. It contains 4 screens altogethe
 directory: assignment1> expo start
 
 CLI Installation: 
-expo = expo init
+expo = expo init (node modules should be installed together with expo)
 
 npm install @react-navigation/native
 
