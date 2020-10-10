@@ -18,3 +18,5 @@ npm install @react-navigation/drawer
 npm install @react-navigation/bottom-tabs
 
 Open command line, redirect to correct directory, and install
+
+(HAD TO ADD SCREENS FILE CAUSE GITHUB WOULDN'T UPLOAD THROUGH VSC)
